@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-  <a href='./README.md'>English</a> | <a href='./README.zh-CN.md'>简体中文</a> | 日本語 | <a href='./README.ko.md'>한국어</a> | <a href='./README.pt-BR.md'>Português</a>
+  <a href='./README.md'>English</a> | <a href='./README.zh-CN.md'>简体中文</a> | 日本語 | <a href='./README.ko.md'>한국어</a> | <a href='./README.pt-BR.md'>Português</a> | <a href='./README.ru.md'>Русский</a>
 </p>
 
 ## はじめに
